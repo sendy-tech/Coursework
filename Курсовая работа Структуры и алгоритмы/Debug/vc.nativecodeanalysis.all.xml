@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\1demb\source\repos\Курсовая работа Структуры и алгоритмы\Курсовая работа Структуры и алгоритмы\</FILEPATH>
+      <FILENAME>Курсовая работа Структуры и алгоритмы.cpp</FILENAME>
+      <LINE>70</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "Hash_Table::key" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>Hash_Table::{ctor}</FUNCTION>
+    <DECORATED>??0Hash_Table@@QAE@XZ</DECORATED>
+    <FUNCLINE>70</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Hash_Table::key</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\1demb\source\repos\Курсовая работа Структуры и алгоритмы\Курсовая работа Структуры и алгоритмы\</FILEPATH>
+      <FILENAME>Курсовая работа Структуры и алгоритмы.cpp</FILENAME>
+      <LINE>55</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "node::left" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>node::{ctor}</FUNCTION>
+    <DECORATED>??0node@@QAE@XZ</DECORATED>
+    <FUNCLINE>55</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>node::left</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\1demb\source\repos\Курсовая работа Структуры и алгоритмы\Курсовая работа Структуры и алгоритмы\</FILEPATH>
+      <FILENAME>Курсовая работа Структуры и алгоритмы.cpp</FILENAME>
+      <LINE>1011</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>6281</DEFECTCODE>
+    <DESCRIPTION>Неверный порядок операций:  операторы отношений имеют более высокий приоритет, чем битовые операторы.</DESCRIPTION>
+    <FUNCTION>mergee</FUNCTION>
+    <DECORATED>?mergee@@YAXQAUFlights@@H0H0H@Z</DECORATED>
+    <FUNCLINE>1006</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\1demb\source\repos\Курсовая работа Структуры и алгоритмы\Курсовая работа Структуры и алгоритмы\</FILEPATH>
+      <FILENAME>Курсовая работа Структуры и алгоритмы.cpp</FILENAME>
+      <LINE>1011</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>6281</DEFECTCODE>
+    <DESCRIPTION>Неверный порядок операций:  операторы отношений имеют более высокий приоритет, чем битовые операторы.</DESCRIPTION>
+    <FUNCTION>mergee</FUNCTION>
+    <DECORATED>?mergee@@YAXQAUFlights@@H0H0H@Z</DECORATED>
+    <FUNCLINE>1006</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\1demb\source\repos\Курсовая работа Структуры и алгоритмы\Курсовая работа Структуры и алгоритмы\</FILEPATH>
+      <FILENAME>Курсовая работа Структуры и алгоритмы.cpp</FILENAME>
+      <LINE>1301</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>6283</DEFECTCODE>
+    <DESCRIPTION>Память для "delta2" выделена при помощи оператора new [] для массивов, а удаляется скалярным оператором delete.</DESCRIPTION>
+    <FUNCTION>boyer_moore</FUNCTION>
+    <DECORATED>?boyer_moore@@YAHPAD0@Z</DECORATED>
+    <FUNCLINE>1283</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\1demb\source\repos\Курсовая работа Структуры и алгоритмы\Курсовая работа Структуры и алгоритмы\</FILEPATH>
+        <FILENAME>Курсовая работа Структуры и алгоритмы.cpp</FILENAME>
+        <LINE>1289</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\1demb\source\repos\Курсовая работа Структуры и алгоритмы\Курсовая работа Структуры и алгоритмы\</FILEPATH>
+        <FILENAME>Курсовая работа Структуры и алгоритмы.cpp</FILENAME>
+        <LINE>1301</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\1demb\source\repos\Курсовая работа Структуры и алгоритмы\Курсовая работа Структуры и алгоритмы\</FILEPATH>
+      <FILENAME>Курсовая работа Структуры и алгоритмы.cpp</FILENAME>
+      <LINE>47</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "list_tickets::next" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>list_tickets::{ctor}</FUNCTION>
+    <DECORATED>??0list_tickets@@QAE@XZ</DECORATED>
+    <FUNCLINE>47</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>list_tickets::next</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
